@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Anything I guess...**
 
-- 📫 How to reach me **you can't**
+- 📫 How to reach me: [**Discord**](https://discord.gg/Kx3PtwEzVJ)
 
 - ⚡ Fun fact: **there is no Fun fact**
 
