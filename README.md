@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [none](https://github.com/MrBlackReal)
 
-- 👨‍💻 All of my projects are available at [https://mrblackreal.de/projects](https://mrblackreal.de/projects)
+- 👨‍💻 All of my projects are available at [https://mrblackreal.de/projects](https://github.com/MrBlackReal?tab=repositories)
 
 - 💬 Ask me about **Anything I guess...**
 
