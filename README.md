@@ -3,20 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrblackreal&label=Profile%20views&color=6969ff&style=flat" alt="mrblackreal" /> </p>
 
-- 🔭 I’m currently working on [none](https://github.com/MrBlackReal)
-
+- 🔭 I’m currently working on a private project called [Azon](https://github.com/MrBlackReal/Azon)
 - 🌱 I’m currently learning **C++**
-
-- 👯 I’m looking to collaborate on [none](https://github.com/MrBlackReal)
-
-- 🤝 I’m looking for help with [none](https://github.com/MrBlackReal)
-
 - 👨‍💻 All of my projects are available at [https://mrblackreal.de/projects](https://github.com/MrBlackReal?tab=repositories)
-
 - 💬 Ask me about **Anything I guess...**
-
 - 📫 How to reach me: [**Discord**](https://discord.gg/Kx3PtwEzVJ)
-
 - ⚡ Fun fact: **there is no Fun fact**
 
 <h3 align="left">Connect with me:</h3>
