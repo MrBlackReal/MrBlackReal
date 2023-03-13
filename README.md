@@ -1,9 +1,9 @@
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=mrblackreal&label=Profile%20views&color=6969ff&style=flat" alt="mrblackreal"/>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCZAdQmBFRRfEEroVnHfj4gQ?logo=youtube&logoColor=red&style=for-the-badge" alt="youtube"/>
 </p>
 
-<p>
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCZAdQmBFRRfEEroVnHfj4gQ?logo=youtube&logoColor=red&style=for-the-badge" alt="youtube"/>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=mrblackreal&label=Profile%20views&color=6969ff&style=flat" alt="mrblackreal"/>
 </p>
 
 ### 📺 Latest YouTube Videos
