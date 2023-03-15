@@ -21,20 +21,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://codepen.io/mrblackreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mrblackreal" height="30" width="40" /></a>
 <a href="https://kaggle.com/mrblackreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mrblackreal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mrblackreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrblackreal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@themrblackreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrblackreal" height="30" width="40" /></a>
 <a href="https://discord.gg/vKpWwT3fKu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vKpWwT3fKu" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <br>
 Languages:
-
+<br>
+<br>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a> 
+</a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
@@ -50,7 +53,8 @@ Languages:
 
 <br>
 Backend:
-
+<br>
+<br>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </a>
@@ -60,7 +64,8 @@ Backend:
 
 <br>
 AI/ML:
-
+<br>
+<br>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 </a>
@@ -72,10 +77,10 @@ AI/ML:
 </a>
 
 <br>
-
 <br>
 Database:
-
+<br>
+<br>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </a>
@@ -85,21 +90,24 @@ Database:
 
 <br>
 Backend as a Service(BaaS):
-
+<br>
+<br>
 <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
 </a>
 
 <br>
 Famework:
-
+<br>
+<br>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
 </a>
 
 <br>
 Game Engines:
-
+<br>
+<br>
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </a>
