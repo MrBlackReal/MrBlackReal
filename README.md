@@ -1,5 +1,5 @@
 <h1 align="center">Hello there I am, MrBlackReal</h1>
-<h3 align="center">A teenage hobby developer who likes to try new things.</h3>
+<h3 align="center">A hobby developer who likes to try new things.</h3>
 
 - 🔭 I’m currently working on [Nothing](https://github.com/mrblackreal)
 
