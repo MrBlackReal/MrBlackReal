@@ -6,6 +6,8 @@ Nothing to see here...
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrblackreal/mrblackreal/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
+
  <table align="center" width="100%" height="100%" >
     <tr>
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrblackreal&theme=github_dark" alt="MrBlackReal's GitHub Stats"/></td>
