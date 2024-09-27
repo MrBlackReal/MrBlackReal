@@ -8,7 +8,7 @@ Nothing to see here...
 
 <br>
 
- <table align="center" width="100%" height="100%" >
+ <table style="border: none" align="center" width="100%" height="100%" >
     <tr>
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrblackreal&theme=github_dark" alt="MrBlackReal's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrblackreal&theme=github_dark" alt="Zane's GitHub Stats"/></td>
