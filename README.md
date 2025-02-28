@@ -21,5 +21,6 @@ Nothing to see here...
 Maybe one of my youtube videos suits you?
 
 <!-- YOUTUBE:START -->
+- [I Will Survive | CSGO HVH Highlights 2 ft. Neverlose | Awesome Network](https://www.youtube.com/watch?v=ll_LAzHEKtI)
 - [CSGO HVH Highlights ft. Neverlose | Awesome Network](https://www.youtube.com/watch?v=IEFhht3uIMo)
 <!-- YOUTUBE:END -->
