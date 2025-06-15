@@ -16,12 +16,3 @@ Nothing to see here...
  </table>
 
 <br>
-
-
-Maybe one of my youtube videos suits you?
-
-<!-- YOUTUBE:START -->
-- [All the things she said | CSGO HVH Highlights 3 ft. Neverlose | Awesome Network](https://www.youtube.com/watch?v=KdHWlysptqk)
-- [I Will Survive | CSGO HVH Highlights 2 ft. Neverlose | Awesome Network](https://www.youtube.com/watch?v=ll_LAzHEKtI)
-- [CSGO HVH Highlights ft. Neverlose | Awesome Network](https://www.youtube.com/watch?v=IEFhht3uIMo)
-<!-- YOUTUBE:END -->
