@@ -29,23 +29,12 @@
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mrblackreal&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrblackreal&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrblackreal&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrblackreal&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrblackreal&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrblackreal&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
