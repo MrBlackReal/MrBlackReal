@@ -12,7 +12,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm a **student** learning to build cool things across the stack
-- 🌱 Currently leveling up in **Python, TypeScript/React, and C#/.NET**
+- 🌱 Currently leveling up in **Python, C/C++, Rust and C#/.NET**
 - 🛠️ I like turning ideas into projects and breaking things to understand how they work
 - 🌐 Find me on the web → **[qkrh.dev](https://qkrh.dev)**
 - ⚡ Fun fact: there's a snake eating my contributions below 🐍
